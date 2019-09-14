@@ -1,5 +1,5 @@
 # dot-files
-This repository contains private develpe setting of Bareum Han, Backend developer, wish to make better wordl through wed technology.
+This repository contains private develpe setting of Bareum Han, Backend developer, wish to make better world through web technology.
 
 This repo has .zshrc. and will have more. 
 
